@@ -1,0 +1,15 @@
+Kennzahl,sigma [km/s],M [Msun],logM [dex]
+Mittelwert,175.934,7.02891e+07,7.58417
+Median,165.9,3.71535e+07,7.57
+Varianz (N),3731.64,1.60254e+16,0.200978
+Standardabweichung (N),61.0872,1.26591e+08,0.448306
+Varianz (N-1),3735.78,1.60431e+16,0.201201
+Standardabweichung (N-1),61.121,1.26661e+08,0.448554
+Standardfehler,2.03398,4.21503e+06,0.014927
+Minimum,71.2,2.34423e+06,6.37
+Maximum,449.1,2.04174e+09,9.31
+25%-Quantil,130.65,1.86209e+07,7.27
+75%-Quantil,205.9,7.24436e+07,7.86
+Interquartilsabstand,75.25,5.38227e+07,0.59
+Schiefe,1.07787,7.70721,0.320425
+Exzess-Kurtosis,1.53165,89.0208,0.298192
